@@ -1,9 +1,9 @@
 # lawkeeper
 # ⚖️ Lawkeeper – AI 법률 상담 에이전트
 
-<img src="https://github.com/user-attachments/assets/5ecea204-59f6-4500-90ea-24e3b4d83e2b" alt="Lawkeeper 발표자료" width="500">
-
+<img src="https://github.com/user-attachments/assets/8895a1b9-c95d-4e05-b028-a65c8952ceb6" alt="Lawkeeper 발표자료" width="500">
 ---
+
 
 # 📖 프로젝트 개요
 
